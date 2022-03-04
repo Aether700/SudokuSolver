@@ -1,0 +1,15 @@
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.txt
+*.idb
+*.ipch
+.vs/SudokuSolver/v16/.suo
+.vs/SudokuSolver/v16/Browse.VC.db
+*.obj
+*.sln
+*.vcxproj
+*.filters
+*.user
